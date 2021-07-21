@@ -1,3 +1,4 @@
+# Machine Learning
 ## Important Machine Learning Algorithms
 
 Good understanding of the following algorithms is required.
